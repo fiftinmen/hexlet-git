@@ -4,3 +4,4 @@ experiment with amend
 hello hello
 good bye
 bad bye
+bad bye
